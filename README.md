@@ -44,7 +44,105 @@ Learn → Build → Break → Investigate → Fix → Verify → Document
 ## 🚀 Featured Work
 
 <!-- PROJECTS:START -->
-> Projects are updated automatically from my public GitHub repositories.
+### 🔄 Latest Public Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [ParamSpider-Kali-Setup](https://github.com/SanathBansod/ParamSpider-Kali-Setup)
+
+A practical Kali Linux setup, troubleshooting, and documentation guide for ParamSpider.
+
+**Stack:** `Security / Research`  
+**⭐ Stars:** 0 • **🍴 Forks:** 0  
+**Last update:** `2026-09-12`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [splunk-ssh-log-analysis](https://github.com/SanathBansod/splunk-ssh-log-analysis)
+
+🔐 Splunk-based SSH authentication log analysis to identify failed login patterns, suspicious source IPs, targeted accounts, and potential brute-force activity.
+
+**Stack:** `Security / Research`  
+**⭐ Stars:** 0 • **🍴 Forks:** 0  
+**Last update:** `2026-09-07`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Snort-IDS](https://github.com/SanathBansod/Snort-IDS)
+
+Hands-on Snort IDS laboratory covering installation, configuration, custom rules, ICMP detection, port scan detection, SSH brute-force detection, and alert analysis.
+
+**Stack:** `Security / Research`  
+**⭐ Stars:** 0 • **🍴 Forks:** 0  
+**Last update:** `2026-08-24`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Metasploit-Bind-Reverse-Shell](https://github.com/SanathBansod/Metasploit-Bind-Reverse-Shell)
+
+Hands-on lab demonstrating reverse TCP, bind TCP, Meterpreter payloads, msfvenom, Multi/Handler, and post-exploitation using Metasploit Framework.
+
+**Stack:** `Security / Research`  
+**⭐ Stars:** 0 • **🍴 Forks:** 0  
+**Last update:** `2026-08-12`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Metasploit-Vulnerability-Assessment](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment)
+
+Practical vulnerability assessment and penetration testing of an authorized Metasploitable 2 laboratory environment using Metasploit Framework.
+
+**Stack:** `Security / Research`  
+**⭐ Stars:** 0 • **🍴 Forks:** 0  
+**Last update:** `2026-08-12`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Nmap-Network-Scanning](https://github.com/SanathBansod/Nmap-Network-Scanning)
+
+Practical network reconnaissance and enumeration using Nmap in an authorized Metasploitable laboratory environment.
+
+**Stack:** `Security / Research`  
+**⭐ Stars:** 0 • **🍴 Forks:** 0  
+**Last update:** `2026-08-10`
+
+</td>
+</tr>
+</table>
+
+_Automatically generated from the public repositories of **SanathBansod**._
 <!-- PROJECTS:END -->
 
 ---
