@@ -1,0 +1,38 @@
+name: Update Profile Projects
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate_readme.py"
+      - ".github/workflows/update-repos.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate dynamic project section
+        run: python scripts/generate_readme.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No README changes detected."
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "docs: update public project list"
+          git push
