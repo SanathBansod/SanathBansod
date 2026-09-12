@@ -1,47 +1,53 @@
 <div align="center">
 
-# 👋 Hi, I'm Sanath Bansod
+<img src="./assets/hero.svg" alt="Sanath Bansod — Cybersecurity Profile" width="100%">
 
-### Aspiring Cybersecurity Professional • Web Application Security • VAPT • Reconnaissance
+<br>
 
-<p>
-  <a href="https://github.com/SanathBansod">GitHub</a> •
-  <a href="https://www.linkedin.com/in/sanathbansod53/">LinkedIn</a>
-</p>
+<a href="https://github.com/SanathBansod"><img src="https://img.shields.io/badge/GitHub-SanathBansod-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/sanathbansod53/"><img src="https://img.shields.io/badge/LinkedIn-Sanath%20Bansod-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+<img src="https://img.shields.io/badge/Web%20Security-0b1220?style=for-the-badge&logo=owasp&logoColor=00e5ff" alt="Web Security">
+<img src="https://img.shields.io/badge/VAPT-0b1220?style=for-the-badge&logo=kalilinux&logoColor=7c3aed" alt="VAPT">
 
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security">
-  <img src="https://img.shields.io/badge/VAPT-1f2937?style=for-the-badge&logo=kalilinux&logoColor=white" alt="VAPT">
-  <img src="https://img.shields.io/badge/Reconnaissance-374151?style=for-the-badge&logo=target&logoColor=white" alt="Reconnaissance">
-</p>
+### `SECURE • EXPLORE • LEARN • DOCUMENT`
 
 </div>
 
----
+<img src="./assets/section-divider.svg" alt="divider" width="100%">
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
-I'm building practical cybersecurity skills through hands-on labs, security tooling, reconnaissance, vulnerability assessment, and structured technical documentation.
+> **Aspiring Cybersecurity Professional** focused on practical **Web Application Security, VAPT, reconnaissance, and security tooling**.
+>
+> I like taking a problem from **first observation → investigation → root cause → verification → documentation**, so every project becomes something reproducible and useful.
 
-My focus is on **understanding why something works or fails**, documenting the investigation, and turning the result into a reproducible workflow.
+<div align="center">
+<img src="./assets/terminal.svg" alt="Security methodology terminal" width="90%">
+</div>
+
+## ⚡ Core Skills & Security Toolkit
+
+| Domain | Tools / Technologies |
+|---|---|
+| 🌐 Web Security | Burp Suite • OWASP • HTTP fundamentals |
+| 🔎 Reconnaissance | Nmap • ParamSpider • SecLists |
+| 🧪 VAPT | Metasploit Framework • Vulnerability Assessment |
+| 🛡️ Detection | Snort IDS • Log Analysis |
+| 📊 SIEM | Splunk • SSH Authentication Analysis |
+| 🐧 Environment | Kali Linux • Linux • Bash |
+| 💻 Development | Python • Git • GitHub |
+
+## 🎯 Current Focus
 
 ```text
-Learn → Build → Break → Investigate → Fix → Verify → Document
+Web Application Security       ████████████████████░  Building
+Reconnaissance & OSINT         ███████████████████░░  Building
+VAPT & Methodology             ██████████████████░░░  Building
+Security Tooling                █████████████████░░░░  Building
+Technical Documentation         ████████████████████░  Building
 ```
 
-## 🛡️ Current Focus
-
-- 🌐 Web Application Security
-- 🔎 Reconnaissance & Attack-Surface Discovery
-- 🧪 Vulnerability Assessment & Penetration Testing
-- 🐧 Kali Linux & Security Tooling
-- 🧰 Nmap • Burp Suite • OWASP • Metasploit • Splunk
-- 📝 Technical documentation and evidence-based troubleshooting
-
----
-
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
 <!-- PROJECTS:START -->
 ### 🔄 Latest Public Projects
@@ -145,62 +151,45 @@ Practical network reconnaissance and enumeration using Nmap in an authorized Met
 _Automatically generated from the public repositories of **SanathBansod**._
 <!-- PROJECTS:END -->
 
----
+<img src="./assets/section-divider.svg" alt="divider" width="100%">
 
-## 🧰 Security Toolkit
+## 📌 What You'll Find Here
 
-| Area | Tools / Technologies |
-|---|---|
-| Web Security | Burp Suite, OWASP methodology |
-| Recon | Nmap, ParamSpider, SecLists |
-| VAPT | Metasploit Framework |
-| Network / IDS | Snort |
-| SIEM / Analysis | Splunk |
-| OS / Environment | Kali Linux, Linux |
-| Development | Python, Bash, Git |
-
----
-
-## 📚 What You'll Find Here
-
-My repositories are built as practical learning artifacts rather than just collections of commands.
-
-Each project aims to show some combination of:
-
-- 🎯 Objective
-- 🧪 Lab / testing environment
-- 🔧 Setup and configuration
-- 🧨 Problems encountered
-- 🔬 Root-cause analysis
-- ✅ Validation and verification
-- 📸 Evidence / screenshots
-- 📝 Lessons learned
-
----
+- 🔬 Hands-on security labs and practical experiments
+- 🧰 Tool setup, configuration, and troubleshooting
+- 📸 Evidence, screenshots, and reproducible steps
+- 🧠 Root-cause analysis instead of copy-paste commands
+- 📝 Technical write-ups and lessons learned
+- 🔐 Responsible, authorized security testing
 
 ## 📈 GitHub Activity
 
-> New public repositories are automatically picked up by the project section above.
+<div align="center">
 
-**Profile:** [github.com/SanathBansod](https://github.com/SanathBansod)
+<a href="https://github.com/SanathBansod">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanathBansod&show_icons=true&hide_border=true&theme=transparent&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" height="165" alt="GitHub stats">
+</a>
+<a href="https://github.com/SanathBansod">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanathBansod&layout=compact&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1" height="165" alt="Top languages">
+</a>
 
----
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanathBansod&hide_border=true&theme=transparent&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub streak">
+
+</div>
 
 ## 🤝 Let's Connect
 
-If you're interested in cybersecurity, web security, reconnaissance, VAPT, or practical security labs:
-
-<p>
-  <a href="https://www.linkedin.com/in/sanathbansod53/">LinkedIn</a> •
-  <a href="https://github.com/SanathBansod">GitHub</a>
-</p>
-
----
-
 <div align="center">
 
-### ⚡ Learn. Test. Investigate. Document.
+<a href="https://www.linkedin.com/in/sanathbansod53/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+<a href="https://github.com/SanathBansod"><img src="https://img.shields.io/badge/GitHub-Follow-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<sub>This profile is focused on authorized security research, labs, and responsible security testing.</sub>
+<br><br>
+
+### `Learn → Build → Test → Investigate → Fix → Verify → Document`
+
+<sub>All security work shown here is intended for authorized labs, educational environments, and responsible security research.</sub>
 
 </div>

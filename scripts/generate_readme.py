@@ -50,22 +50,16 @@ def card(repo):
     else:
         updated_text = "N/A"
 
-    return f"""<table>
-<tr>
-<td width="50%" valign="top">
+    return f"""<td width=\"50%\" valign=\"top\">
 
 ### 🔹 [{name}]({url})
 
 {description}
 
-**Stack:** `{language}`  
-**⭐ Stars:** {stars} • **🍴 Forks:** {forks}  
-**Last update:** `{updated_text}`
+**Stack:** `{language}`  ·  **⭐** {stars}  ·  **🍴** {forks}  
+**Updated:** `{updated_text}`
 
-</td>
-</tr>
-</table>
-"""
+</td>"""
 
 def build_section(repos):
     repos = [
@@ -78,13 +72,18 @@ def build_section(repos):
     if not repos:
         return "> No public projects found yet."
 
-    cards = "\n".join(card(repo) for repo in repos)
+    cells = [card(repo) for repo in repos]
+    rows = []
+    for i in range(0, len(cells), 2):
+        row = cells[i:i+2]
+        while len(row) < 2:
+            row.append('<td width=\"50%\"></td>')
+        rows.append('<tr>\n' + '\n'.join(row) + '\n</tr>')
 
     return (
         "### 🔄 Latest Public Projects\n\n"
-        + cards
-        + "\n"
-        + f"_Automatically generated from the public repositories of **{USERNAME}**._"
+        + '<table>\n' + '\n'.join(rows) + '\n</table>\n'
+        + f"\n_Automatically generated from the public repositories of **{USERNAME}**._"
     )
 
 def main():

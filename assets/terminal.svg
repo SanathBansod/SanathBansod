@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Security workflow terminal">
+<rect x="3" y="3" width="894" height="204" rx="16" fill="#020617" stroke="#0ea5e9" stroke-opacity=".5"/>
+<rect x="3" y="3" width="894" height="34" rx="16" fill="#0b1220"/>
+<circle cx="24" cy="20" r="5" fill="#ef4444"/><circle cx="42" cy="20" r="5" fill="#f59e0b"/><circle cx="60" cy="20" r="5" fill="#22c55e"/>
+<g font-family="Consolas,monospace" font-size="15"><text x="25" y="70" fill="#22d3ee">sanath@security:~$</text><text x="190" y="70" fill="#e2e8f0">cat methodology.txt</text>
+<text x="25" y="103" fill="#a78bfa">01</text><text x="65" y="103" fill="#cbd5e1">Understand the target and scope</text>
+<text x="25" y="130" fill="#a78bfa">02</text><text x="65" y="130" fill="#cbd5e1">Recon → Validate → Document</text>
+<text x="25" y="157" fill="#a78bfa">03</text><text x="65" y="157" fill="#cbd5e1">Fix → Verify → Share responsibly</text>
+<text x="25" y="187" fill="#22d3ee">sanath@security:~$</text><text x="190" y="187" fill="#22c55e">ready_</text><rect x="245" y="174" width="9" height="17" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g></svg>
