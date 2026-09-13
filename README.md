@@ -153,15 +153,15 @@ _Automatically generated from the public repositories of **SanathBansod**._
 <div align="center">
 
 <a href="https://github.com/SanathBansod">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanathBansod&show_icons=true&hide_border=true&theme=transparent&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" height="165" alt="GitHub stats">
+  <img src="./assets/github-stats.svg" height="165" alt="GitHub stats">
 </a>
 <a href="https://github.com/SanathBansod">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanathBansod&layout=compact&hide_border=true&theme=transparent&title_color=22d3ee&text_color=cbd5e1" height="165" alt="Top languages">
+  <img src="./assets/top-languages.svg" height="165" alt="Top languages">
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanathBansod&hide_border=true&theme=transparent&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub streak">
+<img src="./assets/github-streak.svg" alt="GitHub streak">
 
 </div>
 
