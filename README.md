@@ -56,19 +56,25 @@ Technical Documentation         ████████████████
 <tr>
 <td width="50%" valign="top">
 
+### 🔹 [SpectraRecon](https://github.com/SanathBansod/SpectraRecon)
+
+Advanced Reconnaissance &amp; Attack-Surface Discovery Framework
+
+**Stack:** `Python`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-09-13`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔹 [ParamSpider-Kali-Setup](https://github.com/SanathBansod/ParamSpider-Kali-Setup)
 
 A practical Kali Linux setup, troubleshooting, and documentation guide for ParamSpider.
 
-**Stack:** `Security / Research`  
-**⭐ Stars:** 0 • **🍴 Forks:** 0  
-**Last update:** `2026-09-12`
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-09-12`
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -76,31 +82,21 @@ A practical Kali Linux setup, troubleshooting, and documentation guide for Param
 
 🔐 Splunk-based SSH authentication log analysis to identify failed login patterns, suspicious source IPs, targeted accounts, and potential brute-force activity.
 
-**Stack:** `Security / Research`  
-**⭐ Stars:** 0 • **🍴 Forks:** 0  
-**Last update:** `2026-09-07`
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-09-07`
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔹 [Snort-IDS](https://github.com/SanathBansod/Snort-IDS)
 
 Hands-on Snort IDS laboratory covering installation, configuration, custom rules, ICMP detection, port scan detection, SSH brute-force detection, and alert analysis.
 
-**Stack:** `Security / Research`  
-**⭐ Stars:** 0 • **🍴 Forks:** 0  
-**Last update:** `2026-08-24`
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-08-24`
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -108,31 +104,21 @@ Hands-on Snort IDS laboratory covering installation, configuration, custom rules
 
 Hands-on lab demonstrating reverse TCP, bind TCP, Meterpreter payloads, msfvenom, Multi/Handler, and post-exploitation using Metasploit Framework.
 
-**Stack:** `Security / Research`  
-**⭐ Stars:** 0 • **🍴 Forks:** 0  
-**Last update:** `2026-08-12`
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-08-12`
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔹 [Metasploit-Vulnerability-Assessment](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment)
 
 Practical vulnerability assessment and penetration testing of an authorized Metasploitable 2 laboratory environment using Metasploit Framework.
 
-**Stack:** `Security / Research`  
-**⭐ Stars:** 0 • **🍴 Forks:** 0  
-**Last update:** `2026-08-12`
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-08-12`
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -140,11 +126,11 @@ Practical vulnerability assessment and penetration testing of an authorized Meta
 
 Practical network reconnaissance and enumeration using Nmap in an authorized Metasploitable laboratory environment.
 
-**Stack:** `Security / Research`  
-**⭐ Stars:** 0 • **🍴 Forks:** 0  
-**Last update:** `2026-08-10`
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-08-10`
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
