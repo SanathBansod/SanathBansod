@@ -56,6 +56,16 @@ Technical Documentation         ████████████████
 <tr>
 <td width="50%" valign="top">
 
+### 🔹 [splunk-ssh-authentication-security-monitoring](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring)
+
+Splunk-based SSH authentication log analysis, security monitoring and SOC investigation.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-09-17`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔹 [SpectraRecon](https://github.com/SanathBansod/SpectraRecon)
 
 Advanced Reconnaissance &amp; Attack-Surface Discovery Framework
@@ -64,6 +74,8 @@ Advanced Reconnaissance &amp; Attack-Surface Discovery Framework
 **Updated:** `2026-09-13`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔹 [ParamSpider-Kali-Setup](https://github.com/SanathBansod/ParamSpider-Kali-Setup)
@@ -72,18 +84,6 @@ A practical Kali Linux setup, troubleshooting, and documentation guide for Param
 
 **Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
 **Updated:** `2026-09-12`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [splunk-ssh-log-analysis](https://github.com/SanathBansod/splunk-ssh-log-analysis)
-
-🔐 Splunk-based SSH authentication log analysis to identify failed login patterns, suspicious source IPs, targeted accounts, and potential brute-force activity.
-
-**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-09-07`
 
 </td>
 <td width="50%" valign="top">
