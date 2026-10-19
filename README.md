@@ -56,6 +56,28 @@ Technical Documentation         ████████████████
 <tr>
 <td width="50%" valign="top">
 
+### 🔹 [iamforge-aws](https://github.com/SanathBansod/iamforge-aws)
+
+Hands-on AWS IAM security lab featuring MFA configuration, identity management, least-privilege access, and secure user provisioning.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-10-19`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [aws-iam-mfa-guide](https://github.com/SanathBansod/aws-iam-mfa-guide)
+
+Step-by-step guide to configuring AWS IAM Multi-Factor Authentication (MFA) using an authenticator app, with screenshots.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-10-19`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔹 [splunk-ssh-authentication-security-monitoring](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring)
 
 Splunk-based SSH authentication log analysis, security monitoring and SOC investigation.
