@@ -57,7 +57,7 @@
 |---|---|
 | [**Kali Linux & Windows File System — Complete Guide**](projects-practical-labs/kali-linux-windows-filesystem-password-storage.md) | Beginner-friendly side-by-side file-system trees, important directories, paths, file types, Linux permissions, Windows NTFS ACLs, practical commands, storage and mounts, logs, SOC investigation workflow, and safe labs. Includes password-related storage such as Linux `/etc/passwd`, `/etc/shadow`, `/etc/gshadow`, Windows SAM/SYSTEM/SECURITY, Active Directory `NTDS.dit`, and common password-hash/credential types. |
 | [**Kali Linux Commands — Complete Practical Guide**](projects-practical-labs/kali-linux-all-commands-complete-guide.md) | A simple-English handbook covering terminal basics, files, search, permissions, users, processes, storage, APT, networking, DNS, SSH, logs, SOC investigation, Bash scripting, safe labs, troubleshooting, and interview questions. |
-| [**Wazuh FIM + Windows Sysmon — SOC Lab Guide**](projects-practical-labs/wazuh-fim-windows-sysmon-soc-lab.md) | Step-by-step lab plan for Wazuh agents, file-integrity monitoring, Windows Sysmon telemetry, event forwarding, false-positive review, investigation notes, and evidence capture. Run the tests and add your own screenshots before claiming detections as completed. |
+| [**Wazuh FIM + Windows Sysmon — SOC Lab**](https://github.com/SanathBansod/wazuh-fim-windows-sysmon-soc-lab) | Dedicated SOC lab for Wazuh File Integrity Monitoring, Windows Sysmon telemetry, event forwarding, false-positive review, and incident investigation. |
 
 
 
