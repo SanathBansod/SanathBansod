@@ -51,6 +51,14 @@
 
 ## 🚀 Projects & Practical Labs
 
+### 🖥️ Operating Systems & SOC Practical Guides
+
+| Project / Guide | What it covers |
+|---|---|
+| [**Kali Linux & Windows File System — Complete Guide**](projects-practical-labs/kali-linux-windows-filesystem-password-storage.md) | Beginner-friendly side-by-side file-system trees, important directories, paths, file types, Linux permissions, Windows NTFS ACLs, practical commands, storage and mounts, logs, SOC investigation workflow, and safe labs. Includes password-related storage such as Linux `/etc/passwd`, `/etc/shadow`, `/etc/gshadow`, Windows SAM/SYSTEM/SECURITY, Active Directory `NTDS.dit`, and common password-hash/credential types. |
+
+
+
 ### 🌐 Web Security & Reconnaissance
 
 | Project | What it covers |
