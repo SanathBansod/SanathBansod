@@ -6,8 +6,7 @@
 
 <a href="https://github.com/SanathBansod"><img src="https://img.shields.io/badge/GitHub-SanathBansod-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/sanathbansod53/"><img src="https://img.shields.io/badge/LinkedIn-Sanath%20Bansod-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/Web%20Security-0b1220?style=for-the-badge&logo=owasp&logoColor=00e5ff" alt="Web Security">
-<img src="https://img.shields.io/badge/VAPT-0b1220?style=for-the-badge&logo=kalilinux&logoColor=7c3aed" alt="VAPT">
+<img src="https://img.shields.io/badge/Cybersecurity-Portfolio-0b1220?style=for-the-badge&logo=kalilinux&logoColor=00e5ff" alt="Cybersecurity portfolio">
 
 ### `SECURE • EXPLORE • LEARN • DOCUMENT`
 
@@ -17,165 +16,96 @@
 
 ## 👨‍💻 About Me
 
-> **Aspiring Cybersecurity Professional** focused on practical **Web Application Security, VAPT, reconnaissance, and security tooling**.
+> **Aspiring Cybersecurity Professional** building practical experience across web security, vulnerability assessment, reconnaissance, network detection, SIEM analysis, and cloud identity security.
 >
-> I enjoy understanding how systems work, testing them in authorized lab environments, investigating results, and documenting what I learn so the process is reproducible.
+> I use authorized labs to learn how systems behave, validate observations, and document the workflow, evidence, limitations, and security lessons.
 
 <div align="center">
 <img src="./assets/terminal.svg" alt="Security methodology terminal" width="90%">
 </div>
 
-## 🧭 Focus Areas
+## 🧭 Skills & Topics by Field
 
-| Domain | Tools / Topics |
+| Field | Topics and tools represented in my projects |
 |---|---|
-| 🌐 Web Application Security | OWASP concepts • HTTP fundamentals • Burp Suite • PortSwigger labs |
-| 🔎 Reconnaissance | Nmap • ParamSpider • SpectraRecon |
-| 🧪 Vulnerability Assessment | Metasploit Framework • Authorized lab testing |
-| 🛡️ Network Security | Snort IDS • Wireshark • Network scanning |
-| 📊 SIEM & Log Analysis | Splunk • SSH authentication event analysis |
-| ☁️ Cloud & Identity | AWS IAM • MFA • Least privilege |
-| 🐧 Systems & Scripting | Kali Linux • Linux CLI • Python fundamentals |
-| 🧰 Workflow | Git • GitHub • Technical documentation |
+| 🌐 **Web Application Security & Recon** | HTTP/HTTPS metadata, security headers, DNS, Certificate Transparency, crawling, forms, query parameters, JavaScript endpoint hints, API documentation discovery; **SpectraRecon**, ParamSpider, PortSwigger labs (learning) |
+| 🔎 **Network Discovery & Enumeration** | Host discovery, port scanning, service enumeration, target connectivity; **Nmap** |
+| 🧪 **Vulnerability Assessment & Penetration Testing** | Lab scope, vulnerability identification and validation, controlled exploitation, Meterpreter sessions, post-exploitation enumeration, evidence and remediation; **Metasploit Framework** |
+| 🛡️ **Network Security & IDS** | Packet/traffic monitoring, custom detection rules, ICMP alerts, port-scan detection, SSH brute-force alerting; **Snort IDS**, Wireshark (learning/practice) |
+| 📊 **SOC, SIEM & Log Analysis** | SSH authentication events, failed/successful logins, source IP analysis, targeted accounts, SPL queries, detection triage and investigation; **Splunk** |
+| ☁️ **Cloud Security & IAM** | Root-account MFA, authenticator-app enrollment, IAM users, permissions review, least privilege, verification evidence; **AWS IAM** |
+| 🐧 **Linux, Python & Tooling** | Kali Linux, CLI workflows, virtual environments, dependency troubleshooting, Python CLI development; **Python**, Git, GitHub |
+| 📝 **Documentation & Reporting** | Reproducible steps, screenshots, structured Markdown/JSON/CSV reports, lab notes, limitations and next steps |
 
-## 🎯 What I'm Building
+> **Skills note:** the table describes topics and tools represented in personal projects or learning. It is not a claim of expert-level proficiency or professional certification.
 
-- Practical cybersecurity projects with clear steps and evidence.
-- A stronger foundation in web security, networking, Linux, and Python.
-- Reconnaissance workflows and security tooling, including **SpectraRecon**.
-- Blue Team investigations using Splunk and Snort.
-- Cloud identity-security labs focused on AWS IAM and MFA.
+## 🎯 Current Learning Priorities
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 [SpectraRecon](https://github.com/SanathBansod/SpectraRecon)
-
-An API-key-free Python CLI for authorized web reconnaissance and attack-surface discovery. Collects HTTP metadata, security headers, DNS and certificate-transparency data, links, forms, parameters, and JavaScript endpoint hints, then creates structured reports.
-
-**Tools:** `Python` `HTTP` `DNS` `Recon`
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ [IAMForge AWS](https://github.com/SanathBansod/iamforge-aws)
-
-Hands-on AWS identity-security lab documenting root-account MFA hardening, IAM user creation, permission review, verification evidence, and remaining hardening steps.
-
-**Tools:** `AWS IAM` `MFA` `Least Privilege`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Splunk SSH Authentication Monitoring](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring)
-
-SOC-style investigation of simulated SSH authentication logs with SPL queries for failed logins, source IPs, targeted accounts, and suspicious failure-plus-success patterns.
-
-**Tools:** `Splunk` `SPL` `SIEM`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [Snort IDS](https://github.com/SanathBansod/Snort-IDS)
-
-Practical IDS lab covering installation, configuration, custom rules, traffic alerts, and detection exercises in a lab environment.
-
-**Tools:** `Snort` `IDS` `Network Security`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 [Nmap Network Scanning](https://github.com/SanathBansod/Nmap-Network-Scanning)
-
-Network reconnaissance and service enumeration practice in an authorized Metasploitable lab environment.
-
-**Tools:** `Nmap` `Networking` `Recon`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 [ParamSpider Kali Setup](https://github.com/SanathBansod/ParamSpider-Kali-Setup)
-
-A practical setup and troubleshooting guide for using ParamSpider in Kali Linux.
-
-**Tools:** `ParamSpider` `Kali Linux` `CLI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💥 [Metasploit Vulnerability Assessment](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment)
-
-Vulnerability assessment and penetration-testing practice against an authorized Metasploitable lab environment.
-
-**Tools:** `Metasploit` `VAPT` `Lab Testing`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Metasploit Bind & Reverse Shell Lab](https://github.com/SanathBansod/Metasploit-Bind-Reverse-Shell)
-
-A documented lab exploring bind and reverse TCP connections and payload-handling concepts in a controlled environment.
-
-**Tools:** `Metasploit` `Networking` `Lab Practice`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ [AWS IAM MFA Guide](https://github.com/SanathBansod/aws-iam-mfa-guide)
-
-Step-by-step AWS IAM MFA configuration guide using an authenticator app, with screenshots and security notes.
-
-**Tools:** `AWS IAM` `MFA` `Cloud Security`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 [AWS IAM MFA Guide](https://github.com/SanathBansod/aws-iam-mfa-guide)
-
-A screenshot-supported walkthrough for setting up AWS IAM Multi-Factor Authentication with an authenticator app and recording the security steps.
-
-**Tools:** `AWS IAM` `MFA` `Cloud Security`
-
-</td>
-</tr>
-</table>
-
-### More repositories
-
-- [Metasploit Vulnerability Assessment](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment)
-- [Snort IDS](https://github.com/SanathBansod/Snort-IDS)
-- [Nmap Network Scanning](https://github.com/SanathBansod/Nmap-Network-Scanning)
-- [All public repositories](https://github.com/SanathBansod?tab=repositories)
+- Strengthen networking, DNS, HTTP, Linux, and Python fundamentals.
+- Continue web-security labs and improve vulnerability validation and remediation writing.
+- Improve Splunk queries, detection logic, event correlation, and investigation reports.
+- Build and test security tooling with clear scope, output formats, and reproducible examples.
+- Practice AWS identity hardening and independently verify the final security state.
 
 ---
 
-## 🧪 How I Approach a Lab
+## 🚀 Project Portfolio — Grouped by Field
+
+### 🌐 1. Web Security & Reconnaissance
+
+| Project | What it covers |
+|---|---|
+| [**SpectraRecon**](https://github.com/SanathBansod/SpectraRecon) | Python-based, API-key-free authorized reconnaissance; HTTP metadata and headers, DNS-over-HTTPS, Certificate Transparency hostnames, same-origin crawling, links/forms/parameters, JavaScript endpoint hints, API documentation discovery, and structured reports. |
+| [**ParamSpider Kali Setup**](https://github.com/SanathBansod/ParamSpider-Kali-Setup) | ParamSpider installation in Kali Linux, Python virtual environment, dependency/traceback troubleshooting, version compatibility, usage, and verification. |
+
+### 🔎 2. Network Scanning & Enumeration
+
+| Project | What it covers |
+|---|---|
+| [**Nmap Network Scanning**](https://github.com/SanathBansod/Nmap-Network-Scanning) | Practical network reconnaissance and service enumeration in an authorized Metasploitable lab. |
+
+### 🧪 3. Vulnerability Assessment & Penetration Testing
+
+| Project | What it covers |
+|---|---|
+| [**Metasploit Vulnerability Assessment**](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment) | Authorized Metasploitable 2 assessment: connectivity checks, service enumeration, vulnerability validation, controlled exploitation, evidence, impact analysis, and remediation. |
+| [**Metasploit Bind & Reverse Shell Lab**](https://github.com/SanathBansod/Metasploit-Bind-Reverse-Shell) | Lab learning on msfvenom payloads, Multi/Handler, Reverse TCP, Bind TCP, Meterpreter, and controlled post-exploitation enumeration. |
+
+### 🛡️ 4. Network Security & Intrusion Detection
+
+| Project | What it covers |
+|---|---|
+| [**Snort IDS**](https://github.com/SanathBansod/Snort-IDS) | Snort installation/configuration, custom rules, ICMP detection, port-scan alerts, SSH brute-force detection, and alert analysis in an authorized lab. |
+
+### 📊 5. SOC, SIEM & Security Monitoring
+
+| Project | What it covers |
+|---|---|
+| [**Splunk SSH Authentication Security Monitoring**](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring) | SPL-based analysis of educational SSH logs: failed and successful logins, source IPs, targeted users, event correlation, suspicious patterns, and investigation evidence. |
+
+### ☁️ 6. Cloud Security & Identity Access Management
+
+| Project | What it covers |
+|---|---|
+| [**IAMForge — AWS Identity Lab**](https://github.com/SanathBansod/iamforge-aws) | Root-account MFA hardening, separate IAM user lifecycle, permission review, verification screenshots, and follow-up hardening checklist. |
+| [**AWS IAM MFA Guide**](https://github.com/SanathBansod/aws-iam-mfa-guide) | Step-by-step MFA configuration with an authenticator app, screenshots, and reminders to protect credentials and MFA seed material. |
+
+---
+
+## 🧪 My Lab Workflow
 
 ```text
-Define scope and authorization
-          ↓
-Understand the target or dataset
-          ↓
-Run controlled tests / queries
-          ↓
-Collect evidence and observations
-          ↓
-Validate results and limitations
-          ↓
-Document findings and next steps
+1. Define scope and authorization
+                 ↓
+2. Understand the target or dataset
+                 ↓
+3. Run controlled tests or queries
+                 ↓
+4. Collect evidence and observations
+                 ↓
+5. Validate results and limitations
+                 ↓
+6. Document impact, recommendations, and next steps
 ```
 
 ## 📈 GitHub Activity
@@ -183,10 +113,10 @@ Document findings and next steps
 <div align="center">
 
 <a href="https://github.com/SanathBansod">
-  <img src="./assets/github-stats.svg" height="165" alt="GitHub stats">
+  <img src="./assets/github-stats.svg" height="165" alt="GitHub statistics">
 </a>
 <a href="https://github.com/SanathBansod">
-  <img src="./assets/top-languages.svg" height="165" alt="Top languages">
+  <img src="./assets/top-languages.svg" height="165" alt="Most used languages">
 </a>
 
 <br><br>
@@ -195,14 +125,14 @@ Document findings and next steps
 
 </div>
 
-## 📚 Learning Roadmap
+## 📚 Roadmap
 
-- [ ] Strengthen HTTP, DNS, TCP/IP, and networking fundamentals.
-- [ ] Deepen Linux command-line and Python skills.
-- [ ] Continue PortSwigger Web Security Academy labs and document lessons.
-- [ ] Improve vulnerability validation, impact analysis, and remediation writing.
-- [ ] Expand SIEM investigations and cloud identity-security exercises.
-- [ ] Add tests, usage examples, and clear evidence to personal tools.
+- [ ] Strengthen TCP/IP, DNS, HTTP, TLS, and networking fundamentals.
+- [ ] Improve Linux commands, permissions, processes, services, and Bash skills.
+- [ ] Build Python fundamentals and add automated tests to personal tools.
+- [ ] Keep documenting PortSwigger labs with root cause, impact, and mitigation.
+- [ ] Expand Splunk queries, alerting, event correlation, and SOC-style reports.
+- [ ] Add clear installation, usage examples, screenshots, limitations, and test evidence to projects.
 
 ## 🤝 Let's Connect
 
@@ -215,6 +145,6 @@ Document findings and next steps
 
 ### `Learn → Build → Test → Verify → Document`
 
-<sub>All security testing shown here is intended for authorized labs, educational environments, and responsible research.</sub>
+<sub>Security testing shown here is intended for authorized labs, educational environments, and responsible security research.</sub>
 
 </div>
