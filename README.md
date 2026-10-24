@@ -1,4 +1,4 @@
-| [**Kali Linux Commands — Complete Practical Guide**](projects-practical-labs/kali-linux-all-commands-complete-guide.md) | A simple-English command handbook from terminal basics to file operations, search, permissions, users, processes, storage, APT, networking, DNS, SSH, logs, SOC investigation, Bash scripting, safe labs, troubleshooting, and interview questions. Includes examples, explanations, safety notes, and official references. |\n<div align="center">
+<div align="center">
 
 <img src="./assets/hero.svg" alt="Sanath Bansod — Cybersecurity Profile" width="100%">
 
@@ -56,6 +56,7 @@
 | Project / Guide | What it covers |
 |---|---|
 | [**Kali Linux & Windows File System — Complete Guide**](projects-practical-labs/kali-linux-windows-filesystem-password-storage.md) | Beginner-friendly side-by-side file-system trees, important directories, paths, file types, Linux permissions, Windows NTFS ACLs, practical commands, storage and mounts, logs, SOC investigation workflow, and safe labs. Includes password-related storage such as Linux `/etc/passwd`, `/etc/shadow`, `/etc/gshadow`, Windows SAM/SYSTEM/SECURITY, Active Directory `NTDS.dit`, and common password-hash/credential types. |
+| [**Kali Linux Commands — Complete Practical Guide**](projects-practical-labs/kali-linux-all-commands-complete-guide.md) | A simple-English handbook covering terminal basics, files, search, permissions, users, processes, storage, APT, networking, DNS, SSH, logs, SOC investigation, Bash scripting, safe labs, troubleshooting, and interview questions. |
 
 
 
