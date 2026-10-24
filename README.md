@@ -136,15 +136,6 @@
 
 </div>
 
-## 📚 Next Steps
-
-- [ ] Strengthen TCP/IP, DNS, HTTP, TLS, and networking fundamentals.
-- [ ] Improve Linux commands, permissions, processes, services, and Bash skills.
-- [ ] Build Python fundamentals and add automated tests to personal tools.
-- [ ] Keep documenting PortSwigger labs with root cause, impact, and mitigation.
-- [ ] Expand Splunk queries, alerting, event correlation, and SOC-style reports.
-- [ ] Add clear installation, usage examples, screenshots, limitations, and test evidence to projects.
-
 ## 🤝 Connect
 
 <div align="center">
