@@ -445,19 +445,6 @@ Check df -h and free -h. Reduce the amount of sample data, stop Splunk when you 
 - Verify alerts before describing an event as malicious.
 - Follow the current Splunk license terms and official installation documentation.
 
-## 18. Practice Checklist
-
-- [ ] Install Splunk in a lab and note its version.
-- [ ] Start and stop Splunk using the CLI.
-- [ ] Open Splunk Web and confirm login works.
-- [ ] Ingest the fictional authentication sample.
-- [ ] Search for all events and filter failed attempts.
-- [ ] Count failures by user and source IP.
-- [ ] Explain why three failed attempts are not automatically a confirmed attack.
-- [ ] Create a small dashboard or saved report.
-- [ ] Write a short SOC note with scope, evidence, conclusion, limitations, and next steps.
-- [ ] Remove sensitive data from screenshots before sharing.
-
 ### Example SOC investigation note
 
 **Title:** Repeated failed authentication attempts in a training dataset
@@ -468,7 +455,7 @@ Check df -h and free -h. Reduce the amount of sample data, stop Splunk when you 
 - **Assessment:** This pattern deserves review, but the sample alone does not prove account compromise.
 - **Next steps:** Validate timestamps, check surrounding events, confirm whether the activity is expected, and document the result.
 
-## 19. Official References
+## 18. Official References
 
 - [Splunk Enterprise downloads](https://www.splunk.com/en_us/download/splunk-enterprise.html)
 - [Splunk Enterprise installation manual](https://docs.splunk.com/Documentation/Splunk/latest/Installation/Installationoverview)
