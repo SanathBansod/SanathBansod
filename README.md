@@ -90,6 +90,7 @@
 | Project | What it covers |
 |---|---|
 | [**Splunk SSH Authentication Security Monitoring**](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring) | SPL searches over educational SSH logs to review failed/successful logins, source IPs, targeted accounts, suspicious patterns, and investigation evidence. |
+| [**Splunk Installation on Kali Linux — SOC & SIEM Guide**](projects-practical-labs/splunk-installation-kali-linux-soc-siem-security-monitoring.md) | Detailed simple-English guide to install and start Splunk, ingest sample logs, learn SPL, troubleshoot common issues, and practise beginner SOC investigations and security monitoring in a local lab. |
 
 ### ☁️ Cloud Security & Identity Access Management
 
