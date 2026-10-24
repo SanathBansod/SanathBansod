@@ -143,11 +143,11 @@ Step-by-step AWS IAM MFA configuration guide using an authenticator app, with sc
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Splunk SSH Monitoring Project](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring)
+### 🧭 [AWS IAM MFA Guide](https://github.com/SanathBansod/aws-iam-mfa-guide)
 
-Practice analyzing authentication activity, identifying patterns that warrant investigation, and documenting findings for a SOC-style workflow.
+A screenshot-supported walkthrough for setting up AWS IAM Multi-Factor Authentication with an authenticator app and recording the security steps.
 
-**Tools:** `Splunk` `Log Analysis` `SOC`
+**Tools:** `AWS IAM` `MFA` `Cloud Security`
 
 </td>
 </tr>
