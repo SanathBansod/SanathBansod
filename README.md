@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/sanathbansod53/"><img src="https://img.shields.io/badge/LinkedIn-Sanath%20Bansod-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-0b1220?style=for-the-badge&logo=kalilinux&logoColor=00e5ff" alt="Cybersecurity portfolio">
 
-### `SECURE • EXPLORE • LEARN • DOCUMENT`
+### `RECONNAISSANCE  /  VALIDATION  /  DETECTION  /  HARDENING`
 
 </div>
 
@@ -16,15 +16,15 @@
 
 ## 👨‍💻 About Me
 
-> **Aspiring Cybersecurity Professional** building practical experience across web security, vulnerability assessment, reconnaissance, network detection, SIEM analysis, and cloud identity security.
+> **Aspiring Cybersecurity Professional** focused on learning how systems can be assessed, monitored, and secured.
 >
-> I use authorized labs to learn how systems behave, validate observations, and document the workflow, evidence, limitations, and security lessons.
+> My portfolio brings together authorized web and network security labs, small Python tooling, detection exercises, SIEM investigations, and AWS IAM practice. I aim to document not just the steps, but also the evidence, limitations, and security takeaways.
 
 <div align="center">
 <img src="./assets/terminal.svg" alt="Security methodology terminal" width="90%">
 </div>
 
-## 🧭 Skills & Topics by Field
+## 🧭 Technical Areas
 
 | Field | Topics and tools represented in my projects |
 |---|---|
@@ -39,7 +39,7 @@
 
 > **Skills note:** the table describes topics and tools represented in personal projects or learning. It is not a claim of expert-level proficiency or professional certification.
 
-## 🎯 Current Learning Priorities
+## 🎯 What I’m Working On
 
 - Strengthen networking, DNS, HTTP, Linux, and Python fundamentals.
 - Continue web-security labs and improve vulnerability validation and remediation writing.
@@ -49,41 +49,41 @@
 
 ---
 
-## 🚀 Project Portfolio — Grouped by Field
+## 🚀 Projects & Practical Labs
 
-### 🌐 1. Web Security & Reconnaissance
+### 🌐 Web Security & Reconnaissance
 
 | Project | What it covers |
 |---|---|
-| [**SpectraRecon**](https://github.com/SanathBansod/SpectraRecon) | Python-based, API-key-free authorized reconnaissance; HTTP metadata and headers, DNS-over-HTTPS, Certificate Transparency hostnames, same-origin crawling, links/forms/parameters, JavaScript endpoint hints, API documentation discovery, and structured reports. |
-| [**ParamSpider Kali Setup**](https://github.com/SanathBansod/ParamSpider-Kali-Setup) | ParamSpider installation in Kali Linux, Python virtual environment, dependency/traceback troubleshooting, version compatibility, usage, and verification. |
+| [**SpectraRecon**](https://github.com/SanathBansod/SpectraRecon) | Python-based reconnaissance for authorized targets, including HTTP metadata, DNS/Certificate Transparency lookups, same-origin crawling, forms and parameters, JavaScript endpoint hints, API documentation discovery, and Markdown/JSON reports. |
+| [**ParamSpider Kali Setup**](https://github.com/SanathBansod/ParamSpider-Kali-Setup) | Kali Linux setup notes covering virtual environments, dependency troubleshooting, usage, and verification. |
 
-### 🔎 2. Network Scanning & Enumeration
+### 🔎 Network Scanning & Enumeration
 
 | Project | What it covers |
 |---|---|
 | [**Nmap Network Scanning**](https://github.com/SanathBansod/Nmap-Network-Scanning) | Practical network reconnaissance and service enumeration in an authorized Metasploitable lab. |
 
-### 🧪 3. Vulnerability Assessment & Penetration Testing
+### 🧪 Vulnerability Assessment & Penetration Testing
 
 | Project | What it covers |
 |---|---|
-| [**Metasploit Vulnerability Assessment**](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment) | Authorized Metasploitable 2 assessment: connectivity checks, service enumeration, vulnerability validation, controlled exploitation, evidence, impact analysis, and remediation. |
+| [**Metasploit Vulnerability Assessment**](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment) | Metasploitable 2 lab covering connectivity, service enumeration, finding validation, controlled exploitation, evidence, impact, and remediation. |
 | [**Metasploit Bind & Reverse Shell Lab**](https://github.com/SanathBansod/Metasploit-Bind-Reverse-Shell) | Lab learning on msfvenom payloads, Multi/Handler, Reverse TCP, Bind TCP, Meterpreter, and controlled post-exploitation enumeration. |
 
-### 🛡️ 4. Network Security & Intrusion Detection
+### 🛡️ Network Security & Intrusion Detection
 
 | Project | What it covers |
 |---|---|
 | [**Snort IDS**](https://github.com/SanathBansod/Snort-IDS) | Snort installation/configuration, custom rules, ICMP detection, port-scan alerts, SSH brute-force detection, and alert analysis in an authorized lab. |
 
-### 📊 5. SOC, SIEM & Security Monitoring
+### 📊 SOC, SIEM & Security Monitoring
 
 | Project | What it covers |
 |---|---|
-| [**Splunk SSH Authentication Security Monitoring**](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring) | SPL-based analysis of educational SSH logs: failed and successful logins, source IPs, targeted users, event correlation, suspicious patterns, and investigation evidence. |
+| [**Splunk SSH Authentication Security Monitoring**](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring) | SPL searches over educational SSH logs to review failed/successful logins, source IPs, targeted accounts, suspicious patterns, and investigation evidence. |
 
-### ☁️ 6. Cloud Security & Identity Access Management
+### ☁️ Cloud Security & Identity Access Management
 
 | Project | What it covers |
 |---|---|
@@ -92,7 +92,7 @@
 
 ---
 
-## 🧪 My Lab Workflow
+## 🧪 How I Approach a Lab
 
 ```text
 1. Define scope and authorization
@@ -108,7 +108,7 @@
 6. Document impact, recommendations, and next steps
 ```
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Languages
 
 <div align="center">
 
@@ -125,7 +125,7 @@
 
 </div>
 
-## 📚 Roadmap
+## 📚 Next Steps
 
 - [ ] Strengthen TCP/IP, DNS, HTTP, TLS, and networking fundamentals.
 - [ ] Improve Linux commands, permissions, processes, services, and Bash skills.
@@ -134,7 +134,7 @@
 - [ ] Expand Splunk queries, alerting, event correlation, and SOC-style reports.
 - [ ] Add clear installation, usage examples, screenshots, limitations, and test evidence to projects.
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
 
