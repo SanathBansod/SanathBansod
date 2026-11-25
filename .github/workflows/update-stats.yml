@@ -1,4 +1,4 @@
-﻿name: Update GitHub Profile Stats
+name: Update GitHub Profile Stats
 
 on:
   schedule:
@@ -35,7 +35,7 @@ jobs:
       - name: Generate GitHub streak
         uses: zients/github-readme-streak-stats@v2
         with:
-          options: "user=${{ github.repository_owner }}&theme=transparent&hide_border=true&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&disable_animations=true"
+          options: "user=${{ github.repository_owner }}&theme=transparent&hide_border=true&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&disable_animations=true&locale=en"
           path: assets/github-streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
