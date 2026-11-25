@@ -245,15 +245,15 @@ _Automatically generated from the public repositories of **SanathBansod**._
 <div align="center">
 
 <a href="https://github.com/SanathBansod">
-  <img src="./assets/github-stats.svg" height="165" alt="GitHub statistics">
+  <img src="./assets/github-stats.svg" width="49%" alt="GitHub statistics">
 </a>
 <a href="https://github.com/SanathBansod">
-  <img src="./assets/top-languages.svg" height="165" alt="Most used languages">
+  <img src="./assets/top-languages.svg" width="49%" alt="Most used languages">
 </a>
 
 <br><br>
 
-<img src="./assets/github-streak.svg" alt="GitHub streak">
+<img src="./assets/github-streak.svg" width="75%" alt="GitHub contributions and streak">
 
 </div>
 
