@@ -76,9 +76,8 @@ def build_section(repos):
         and r.get("name", "").lower() != PROFILE_REPO.lower()
         and not r.get("archived", False)
     ]
-    # Keep the profile showcase focused on the newest public work.
-    # Older projects remain documented in the manually curated section above.
-    repos = repos[:8]
+    # Keep the generated section to the 6 newest repositories.
+    repos = repos[:6]
 
     if not repos:
         return "> No public projects found yet."
