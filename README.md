@@ -103,6 +103,125 @@
 
 ---
 
+<!-- PROJECTS:START -->
+### 🔄 Latest Public Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [wazuh-fim-windows-sysmon-soc-lab](https://github.com/SanathBansod/wazuh-fim-windows-sysmon-soc-lab)
+
+Hands-on SOC lab for Wazuh File Integrity Monitoring, Windows Sysmon telemetry, endpoint detection, alert triage, and incident investigation.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-10-24`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [splunk-ssh-authentication-security-monitoring](https://github.com/SanathBansod/splunk-ssh-authentication-security-monitoring)
+
+Splunk-based SSH authentication log analysis, security monitoring and SOC investigation.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-10-24`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Nmap-Network-Scanning](https://github.com/SanathBansod/Nmap-Network-Scanning)
+
+Practical network reconnaissance and enumeration using Nmap in an authorized Metasploitable laboratory environment.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-10-24`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [iamforge-aws](https://github.com/SanathBansod/iamforge-aws)
+
+Hands-on AWS IAM security lab featuring MFA configuration, identity management, least-privilege access, and secure user provisioning.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-10-19`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [aws-iam-mfa-guide](https://github.com/SanathBansod/aws-iam-mfa-guide)
+
+Step-by-step guide to configuring AWS IAM Multi-Factor Authentication (MFA) using an authenticator app, with screenshots.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-10-19`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [SpectraRecon](https://github.com/SanathBansod/SpectraRecon)
+
+Advanced Reconnaissance &amp; Attack-Surface Discovery Framework
+
+**Stack:** `Python`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-09-13`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [ParamSpider-Kali-Setup](https://github.com/SanathBansod/ParamSpider-Kali-Setup)
+
+A practical Kali Linux setup, troubleshooting, and documentation guide for ParamSpider.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-09-12`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [Snort-IDS](https://github.com/SanathBansod/Snort-IDS)
+
+Hands-on Snort IDS laboratory covering installation, configuration, custom rules, ICMP detection, port scan detection, SSH brute-force detection, and alert analysis.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-08-24`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Metasploit-Bind-Reverse-Shell](https://github.com/SanathBansod/Metasploit-Bind-Reverse-Shell)
+
+Hands-on lab demonstrating reverse TCP, bind TCP, Meterpreter payloads, msfvenom, Multi/Handler, and post-exploitation using Metasploit Framework.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-08-12`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [Metasploit-Vulnerability-Assessment](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment)
+
+Practical vulnerability assessment and penetration testing of an authorized Metasploitable 2 laboratory environment using Metasploit Framework.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-08-12`
+
+</td>
+</tr>
+</table>
+
+_Automatically generated from the public repositories of **SanathBansod**._
+<!-- PROJECTS:END -->
+
 ## 🧪 How I Approach a Lab
 
 ```text
