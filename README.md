@@ -177,50 +177,6 @@ Advanced Reconnaissance &amp; Attack-Surface Discovery Framework
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [ParamSpider-Kali-Setup](https://github.com/SanathBansod/ParamSpider-Kali-Setup)
-
-A practical Kali Linux setup, troubleshooting, and documentation guide for ParamSpider.
-
-**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-09-12`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [Snort-IDS](https://github.com/SanathBansod/Snort-IDS)
-
-Hands-on Snort IDS laboratory covering installation, configuration, custom rules, ICMP detection, port scan detection, SSH brute-force detection, and alert analysis.
-
-**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-08-24`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [Metasploit-Bind-Reverse-Shell](https://github.com/SanathBansod/Metasploit-Bind-Reverse-Shell)
-
-Hands-on lab demonstrating reverse TCP, bind TCP, Meterpreter payloads, msfvenom, Multi/Handler, and post-exploitation using Metasploit Framework.
-
-**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-08-12`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [Metasploit-Vulnerability-Assessment](https://github.com/SanathBansod/Metasploit-Vulnerability-Assessment)
-
-Practical vulnerability assessment and penetration testing of an authorized Metasploitable 2 laboratory environment using Metasploit Framework.
-
-**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-08-12`
-
-</td>
-</tr>
 </table>
 
 _Automatically generated from the public repositories of **SanathBansod**._
