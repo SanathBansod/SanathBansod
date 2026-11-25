@@ -35,4 +35,8 @@ jobs:
 
           git add README.md
           git commit -m "docs: update public project list"
+
+          # Another workflow may update a different file on main at the same time.
+          # Rebase once on the latest main before pushing to avoid stale-branch failures.
+          git pull --rebase origin main
           git push
