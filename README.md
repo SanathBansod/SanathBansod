@@ -114,6 +114,50 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🔹 [Windows-Event-Log-Analyzer](https://github.com/SanathBansod/Windows-Event-Log-Analyzer)
+
+A Python-based Windows Security Event Log Analyzer for SOC monitoring, brute-force detection, suspicious activity identification, and security event investigation.
+
+**Stack:** `Python`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-11-26`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [Splunk-Installation-Kali-SOC-SIEM](https://github.com/SanathBansod/Splunk-Installation-Kali-SOC-SIEM)
+
+Complete Splunk installation and configuration guide for Kali Linux, covering SIEM fundamentals, log ingestion, SPL searches, SOC monitoring, troubleshooting, and practical security investigations.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-11-25`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 [Kali-Linux-Windows-File-System](https://github.com/SanathBansod/Kali-Linux-Windows-File-System)
+
+Complete beginner-friendly guide to Kali Linux and Windows file systems, directory structures, permissions, password storage, SOC investigation, and practical labs.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-11-25`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 [Kali-Linux-Commands-Complete-Guide](https://github.com/SanathBansod/Kali-Linux-Commands-Complete-Guide)
+
+Complete Kali Linux Commands Guide covering Linux fundamentals, networking, system administration, cybersecurity tools, SOC investigation, Bash scripting, practical labs, and interview questions.
+
+**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
+**Updated:** `2026-11-25`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔹 [wazuh-fim-windows-sysmon-soc-lab](https://github.com/SanathBansod/wazuh-fim-windows-sysmon-soc-lab)
 
 Hands-on SOC lab for Wazuh File Integrity Monitoring, Windows Sysmon telemetry, endpoint detection, alert triage, and incident investigation.
@@ -130,50 +174,6 @@ Splunk-based SSH authentication log analysis, security monitoring and SOC invest
 
 **Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
 **Updated:** `2026-10-24`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [Nmap-Network-Scanning](https://github.com/SanathBansod/Nmap-Network-Scanning)
-
-Practical network reconnaissance and enumeration using Nmap in an authorized Metasploitable laboratory environment.
-
-**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-10-24`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [iamforge-aws](https://github.com/SanathBansod/iamforge-aws)
-
-Hands-on AWS IAM security lab featuring MFA configuration, identity management, least-privilege access, and secure user provisioning.
-
-**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-10-19`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [aws-iam-mfa-guide](https://github.com/SanathBansod/aws-iam-mfa-guide)
-
-Step-by-step guide to configuring AWS IAM Multi-Factor Authentication (MFA) using an authenticator app, with screenshots.
-
-**Stack:** `Security / Research`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-10-19`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [SpectraRecon](https://github.com/SanathBansod/SpectraRecon)
-
-Advanced Reconnaissance &amp; Attack-Surface Discovery Framework
-
-**Stack:** `Python`  ·  **⭐** 0  ·  **🍴** 0  
-**Updated:** `2026-09-13`
 
 </td>
 </tr>
